@@ -27,16 +27,16 @@ I’m a  second year computer engineering student and I am from Dhule Maharashtr
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on c and c++  
+- 🔭 I’m currently working on my githubprofile
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning  Java Programming and BOOTSRAP
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to C programming language and C++
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I can make laugh any person at any time 
 
 
 </td><td valign="top" width="50%">
