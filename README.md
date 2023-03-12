@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m a  second year computer engineering student and I am from Dhule Maharashtra itself. I am skilled with C/C++ , JAVA ,HTML ,CSS , JAVASCRIPT ,PYTHON ,PHP ,   
+I’m a third year computer engineering student and I am from Dhule Maharashtra itself. I am skilled with C/C++ , JAVA ,HTML ,CSS , JAVASCRIPT ,PYTHON ,PHP ,   
   
 
 <br/>  
